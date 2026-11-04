@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NEX PDF
 
 NEX PDF is a responsive browser-based document workspace branded by NEXORA. This repository currently implements the **Stage 1 frontend preview**. It is not a production document platform: it has no authentication, database, private cloud storage, background workers, billing, or administrator service.
@@ -48,3 +49,7 @@ Before enabling server-dependent tools, add and configure:
 - HTTPS deployment, operational logging, monitoring, backups and security/performance testing.
 
 No cloud, authentication, AI, or payment credentials belong in frontend code. Add environment-variable examples and migrations alongside the backend when those services are selected and implemented; this preview intentionally does not invent provider configuration or imply those systems are ready.
+=======
+# NEX_PDF
+This website is an official site of the nex_pdf it all about converting ur document  from PDF TO WORD and many other  features in the  site
+>>>>>>> 701218c56181c4c55504b45e6979003e58682b91
